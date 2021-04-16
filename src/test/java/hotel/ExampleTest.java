@@ -1,4 +1,4 @@
-package org.tof.example;
+package hotel;
 
 
 import org.junit.jupiter.api.DisplayName;
